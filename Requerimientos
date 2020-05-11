@@ -1,0 +1,43 @@
+Requerimientos:
+Desarrollando un sistema para control de inventarios y una base de datos que les permita a los trabajadores registrar altas, bajas y cambios en el almacén de la empresa. 
+Deberá contener la información de cada sucursal y las transferencias que se puedan realizar entre estás, y dar indicadores de inventarios.
+La interfaz deberá ser sencilla de comprender para los usuarios, permitiendo una rápida captura de inventarios y la visualización del inventario en tiempo real.
+
+
+Involucrados: 
+•	Desarrolladores del software.  
+•	Gerente ventas.
+•	Gerente de logística y control de inventarios.
+•	Gerente del área de compras.
+
+Responsables:
+•	Gerente de logística y control de inventarios.
+•	Gerente de administración.
+
+Necesidades de información:
+•	Acceso a la información de los inventarios, procesos dentro de las áreas involucradas.
+
+Herramientas
+•	Equipo de computo, con los programas: SQL SERVER, Netbens o Eclipse. 
+
+El alcance de este proyecto es proporcionar al usuario una plataforma en la que el usuario pueda realizar actualizaciones del inventario en tiempo real, desde altas, bajas y cambios en la base de datos, así como compartir esta información a diferentes departamentos del negocio. Evitará la escasez y el desperdicio de productos para obtener un mejor resultado del inventario. 
+
+Resultado esperado: 
+Permitirá la gestión de los inventarios de la empresa, los empleados y gerentes podrán realizar altas, bajas y cambios en una base de datos que contenga un registro de cada sucursal, pero permita que se realicen búsquedas en los inventarios de todas las sucursales, o individualmente. 
+Esté sistema les permitirá realizar registros de trasferencias entre sucursales.
+Los cambios que se realicen en la base de datos podrán ser observados en tiempo real, permitiendo que en todo momento el gerente o los empleados puedan encontrar los productos y observar los ajustes que se realicen dentro de la aplicación.
+
+La empresa podrá: 
+• Tener una planificación precisa para mantenerse por delante de la curva de demanda y mantener la cantidad correcta de productos. 
+• Proporcionar eficiencia a los empleados.
+• Administrar a los proveedores. 
+• Mantener registros de ventas para cualquier pedido y administrar las facturas. 
+• Gestionará informes, como listas, facturas de proveedores e inventarios.
+
+El cliente recibirá un manual de usuario, con las instrucciones necesarias para usar el sistema de forma adecuada, explicando las funciones de todos los módulos y como solucionar posibles problemas con el sistema. Contará con servicio técnico por un año. 
+•	El software podrá ser usado en dispositivos Android y Windows 8 en adelante. 
+
+Qué no será parte del proyecto.
+•	Administrar las cuentas de la compañía como lo que es: el estado de cuentas por cobrar y por pagar.
+•	El sistema no podrá ser instalado en dispositivos iOS o MacOs.
+•	 A partir del segundo año, el servicio técnico será removido.
