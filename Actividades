@@ -25,3 +25,27 @@ Cierre/Mantenimiento
 •	Entrega del manual del sistema
 •	Firma de Entrega
 
+
+Inicio de requisitos o licitación de requisitos: los desarrolladores y las partes interesadas se reúnen, 
+estos últimos son consultados con respecto a sus necesidades y deseos con respecto al producto de software.
+
+Análisis de requisitos y negociación: se identifican los requisitos (incluidos los nuevos si el desarrollo 
+es iterativo) y se resuelven los conflictos con las partes interesadas. Tanto las herramientas escritas como 
+las gráficas (esta última comúnmente utilizada en la fase de diseño, pero algunas también las encuentran 
+útiles en esta etapa) se usan con éxito como ayuda. 
+
+Modelado del sistema: algunos campos de ingeniería (o situaciones específicas) requieren que el producto esté 
+completamente diseñado y modelado antes de que comience su construcción o fabricación y, por lo tanto, la fase 
+de diseño debe realizarse con anticipación. En muchos campos, como la ingeniería de software, la mayoría de 
+las actividades de modelado se clasifican como actividades de diseño y no como actividades de ingeniería de requisitos.
+
+Especificación de requisitos: los requisitos se documentan en un artefacto formal llamado Especificación de requisitos 
+(RS), que se hará oficial solo después de la validación. Una RS puede contener información escrita y gráfica (modelos) 
+si es necesario. 
+
+Validación de requisitos: verificar que los requisitos y modelos documentados sean coherentes y cumplan con las 
+necesidades de los interesados. Solo si el borrador final pasa el proceso de validación, el RS se vuelve oficial.
+Gestión de requisitos: gestión de todas las actividades relacionadas con los requisitos desde su inicio, supervisión 
+a medida que se desarrolla el sistema e incluso hasta después de que se pone en uso.
+
+
