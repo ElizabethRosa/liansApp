@@ -1,0 +1,100 @@
+La verificación del software se planificará para cada fase del ciclo de vida de la seguridad del 
+software, y esta información se documentará. La verificación requerida por la certificación debe
+ser planeada, realizada y validada. Mediante estas actividades, se puede lograr la reducción de 
+riesgo necesaria (los errores en su software se evitan, detectan y solucionan de manera temprana y económica). 
+Se proporcionarán servicios para las verificaciones (Revisión, Pruebas y análisis).
+
+Procesos:
+
+•	Pruebas Basadas en Requisitos
+•	Revisión de especificaciones
+•	Fase de prueba
+•	Revisión de especificaciones de prueba
+•	Implementación de la prueba
+•	Campaña de prueba de acogida
+•	Revisión de código
+•	Capacitación relacionada con las actividades de verificación.
+•	Ciclo de vida 
+•	Pruebas basadas en requisitos 
+
+Validará que los requisitos sean correctos, completos, no ambiguos y lógicamente consistentes
+•	Diseñar un conjunto de casos de prueba necesarios y suficientes (desde una perspectiva de caja negra) 
+a partir de esos requisitos para garantizar que el diseño y el código cumplan plenamente esos requisitos. 
+
+En el diseño de pruebas se deben superar dos problemas:
+•	Reduciendo la inmensa cantidad de pruebas potenciales en un conjunto de tamaño razonable
+•	Asegurarse de que las pruebas tengan la respuesta correcta por la razón correcta.
+•	La estrategia general es integrar las pruebas a lo largo del ciclo de vida del desarrollo y centrarse 
+en la calidad de la Especificación de requisitos. Esto conduce a una detección temprana de defectos que 
+se ha demostrado que es mucho menos costosa que encontrar defectos durante las pruebas de integración o posteriores. 
+•	La intención de una Revisión de la especificación es identificar cualquier cosa que no sea clara, 
+ambigua o incompleta en la especificación. Esta evaluación también verificará que los requisitos se escriban 
+a un nivel de detalle requerido para producir un conjunto suficiente de casos de prueba para validar la funcionalidad
+del sistema y el nivel de detalle requerido para la prueba no agrega nada al estándar para desarrollar 
+especificaciones de requisitos. 
+
+•	La revisión de la Especificación también puede incluir la revisión de trazabilidad. Puede rastrear un requisito 
+hasta los objetivos de negocio definidos y acordados para el proyecto, y puede rastrear el requisito hasta el diseño 
+y el código que lo implementa y el caso de prueba que lo prueba. 
+
+Revisión de las especificaciones de la prueba. Después de la revisión de los requisitos, se trata de una actividad 
+que debe realizarse con el mayor cuidado y dicha revisión se debe realizar de manera sistemática para garantizar 
+la claridad, corrección y verificabilidad de los requisitos. Todas las preguntas e inquietudes sobre los requisitos 
+deben resolverse antes de pasar a la fase de preparación de la Prueba. Cualquier producto de trabajo que se considere 
+entregable debe ser revisado por expertos. Con la especificación de prueba (casos / procedimientos de prueba) 
+desempeñando un papel tan importante, se hace necesario garantizar que sean efectivos, precisos y optimizados. 
+
+Esto es cuando la actividad de revisión de Especificación de prueba (casos / procedimientos de prueba) ayuda. 
+Implementación de prueba Los clientes pueden subcontratar sus tareas de pruebas basadas en requisitos a los 
+consultores experimentados de EMENDA. Emenda realiza las revisiones iniciales de ambigüedad de las 
+Especificaciones de prueba, identificando cuantitativamente las deficiencias. Una vez que los problemas 
+identificados en las revisiones de ambigüedad se han resuelto, Emenda implementa especificaciones de casos 
+de prueba utilizando el software Emenda (las herramientas de nuestro solicitante) y lleva a cabo el esfuerzo 
+hasta completar un producto de calidad, incluso en aquellos proyectos en los que estamos realizando la mayor 
+parte de las pruebas., sugerimos que los miembros clave del personal del cliente trabajen juntos. De esta manera, 
+hacemos el trabajo de manera oportuna mientras realizamos la transferencia de tecnología a su gente.
+
+Establece los mecanismos que podrán ayudar para validar el software.
+Prueba de caja negra
+Es una técnica para evaluar el funcionamiento del software, basándose únicamente en las especificaciones disponibles, 
+y desconocer el conocimiento y la comprensión de las características internas y la estructura del software.
+
+Prueba de caja blanca
+Implica probar la funcionalidad del software, con el conocimiento del funcionamiento interno y la estructura del 
+software, por parte de los evaluadores.
+
+Prueba de caja gris
+Gray-Box Testing es una combinación de la prueba de caja negra y el enfoque de prueba de caja blanca, que permite 
+evaluar la funcionalidad del software, externamente, desde la perspectiva del usuario, mediante la ejecución de 
+planes y casos de prueba, preparados a partir de un conocimiento limitado de lo interno. Características, 
+funcionalidades o detalles del software.
+
+Además de las metodologías de prueba anteriores, también podrían incluirse pruebas de aceptación de humo, 
+regresión, funcional, del sistema y del usuario.
+
+
+Describe las métricas y actividades para asegurar la calidad del software.
+•	Tiempo medio para el fracaso
+Es el tiempo entre fracasos. Esta métrica se usa principalmente con los sistemas críticos de seguridad, como 
+los sistemas de control de tráfico de las aerolíneas, la aviónica y las armas.
+
+•	Densidad de defectos
+Mide los defectos relativos al tamaño del software expresado como líneas de código o punto de función, etc., 
+es decir, mide la calidad del código por unidad. Esta métrica se utiliza en muchos sistemas de software comerciales.
+
+•	Problemas de clientes
+Mide los problemas que los clientes encuentran al usar el producto. Contiene la perspectiva del cliente hacia 
+el espacio de problemas del software, que incluye los problemas no orientados a los defectos junto con los problemas 
+de los defectos.
+
+•	La satisfacción del cliente
+La satisfacción del cliente a menudo se mide por los datos de encuestas de clientes a través de la escala de cinco puntos
+
+	Muy Satisfecho
+	Satisfecho
+	Neutral
+	Insatisfecho
+	Muy insatisfecho
+La satisfacción con la calidad general del producto y sus dimensiones específicas generalmente se obtiene a 
+través de varios métodos de encuestas a los clientes. Sobre la base de los datos de escala de cinco puntos, 
+se pueden construir y usar varias métricas con ligeras variaciones, dependiendo del propósito del análisis. 
